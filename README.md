@@ -1,5 +1,4 @@
-# football_management_system
-Football Management System Java Pure Console
+# Football Management System Java Pure Console
 
 # Classes
 
