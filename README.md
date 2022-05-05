@@ -1,9 +1,10 @@
 # football_management_system
 Football Management System Java Pure Console
 
-Classes
+# Classes
 
-Class Team
+# Class Team
+
 that Class Contains Array List Of The Players
 And HashMap That Contains Enemy Teams
 And How Many Times That Team Played
@@ -15,21 +16,24 @@ and Update Them beside Team Information
 Like Id and Scores
 
 
-Class Player
+# Class Player
+
 That Class Contains A Single Player Data
 and a hashMap Contains Match As A key
 And His Value Is The Number Of Goals That
 Player Scored at this match
 
 
-Class Match
+# Class Match
+
 That Clsass Contains Match Data Like Id
 And Date And The Team that Played At This
 Match and Some Data Of The Match Like
 Scores .....etc
 
 
-Class Start
+# Class Start
+
 I Can Call That Class Like Main Class
 That Contains Most Of the Actions.
 that Class That Display Menues And It
@@ -50,7 +54,7 @@ Matches And Every Thing Happens At
 Start Class.
 
 
-Handelled Errors
+# Handelled Errors
 
 All handled
 Inputs Might Be Capital Or Small => handled
